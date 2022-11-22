@@ -1,0 +1,29 @@
+{
+  "UserInfo": [
+    {
+      "active": "true",
+      "name": "Buckley AFB",
+      "side": "BLUE",
+      "type": "GROUND_SITE",
+      "operational": "true",
+      "latitude": "39.7",
+      "longitude": "-104.75",
+      "altitude": "1726.0",
+      "pos_xyz": "null",
+      "vel_xyz": "null"
+    },
+    {
+      "active": "true",
+      "name": "Russian_Ship",
+      "side": "RED",
+      "type": "MARITIME-SHIP",
+      "operational": "true",
+      "latitude": "75.7",
+      "longitude": "323.11",
+      "altitude": "1134.0",
+      "pos_xyz": "null",
+      "vel_xyz": "null"
+    }
+  ]
+}
+     
