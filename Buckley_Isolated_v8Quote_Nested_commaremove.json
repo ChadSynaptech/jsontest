@@ -1,0 +1,19 @@
+{
+  "UserInfo":[
+    {
+      "active": "true",
+      "name": "Buckley AFB",
+      "side": "BLUE",
+      "type": "GROUND_SITE",
+      "operational": "true",
+      "pos_lla": {
+        "latitude": "39.7",
+        "longitude": "-104.75",
+        "altitude": "1726.0"
+      }
+      "pos_xyz": "null",
+      "vel_xyz": "null"
+    }
+  ]
+}
+     
